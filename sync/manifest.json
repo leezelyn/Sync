@@ -1,0 +1,12 @@
+{
+    "name": "Sync",
+    "icon": "icon.png",
+    "version": "1.2",
+    "description": "单词本同步器",
+    "author": "tse",
+    "website": "null",
+    "entry": "main.js",
+    "api_level": 1,
+    "permissions": ["lifecycle","interconnect","ui","native","thirdpartyapp","filesystem","event"],
+    "additional_files": []
+}
