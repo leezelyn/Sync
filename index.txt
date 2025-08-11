@@ -1,6 +1,1 @@
-LICENSE
-README.md
-sync/icon.png
-sync/main.js
-sync/main.js.map
-sync/manifest.json
+sync
